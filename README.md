@@ -1,0 +1,2 @@
+# Gitolite
+For gitolite
